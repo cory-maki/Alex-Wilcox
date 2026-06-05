@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://alexwilcox.netlify.app/sitemap.xml
